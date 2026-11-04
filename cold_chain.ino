@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID   "TMPL3SdKD036N"
+#define BLYNK_TEMPLATE_ID   "your id"
 #define BLYNK_TEMPLATE_NAME "Temperature"
-#define BLYNK_AUTH_TOKEN    "HAqgTHZ6PM3ur3tavS6XrtqrlaK2p0kx"
+#define BLYNK_AUTH_TOKEN    "your auth token"
 #define BLYNK_PRINT Serial
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
